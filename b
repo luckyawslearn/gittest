@@ -1,3 +1,3 @@
 hasib
 khan
-tanzeel
+tanze
